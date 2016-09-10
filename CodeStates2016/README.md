@@ -254,7 +254,7 @@
   - 도서 : cracking the coding interview 추천
   - 도서 : 소프트스킬 추천
 * 만들어보기
-  - 김포프님 동영상 공유
+  - 김포프님의 [스터디 절대로 하지 마라](https://www.youtube.com/watch?v=4ZcNL96NMIk) 영상 참고
   - 책/이론만 보지말고 결국 사이드 프로젝트로 코드 구현을 하자.
 * 함께하기
   - Pyjog/프론트엔드개발그룹/모각코/PyCON/JSCON 등에 참여하기
