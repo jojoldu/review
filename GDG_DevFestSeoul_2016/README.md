@@ -1,5 +1,6 @@
 #GDG Dev Fest Seoul 2016 참석 후기
 [Google Developer Group의 페스티발](https://festi.kr/festi/gdg-korea-2016-devfest-seoul/)에 참석했다! <br/>
+(혹시나 다른 세미나 정보도 알고 싶다면 내 [Github](https://github.com/jojoldu/review)를 star 하시거나, [블로그](http://jojoldu.tistory.com/category/%ED%9B%84%EA%B8%B0/%EC%84%B8%EB%AF%B8%EB%82%98)를 feed 받으시면 된다! 꾸준히 세미나 참석하여 후기를 남기고 있다.)
 이번엔 나혼자가 아닌 많은 우리 회사 분들이 함께 했다. <br/>
 이전 GDG 행사는 Google 관련 제품소개가 많아서 참석하지 않았는데, 이번엔 너무나 다양항 주제로 진행하기도 했었고, <br/> 제일 듣고싶었던 주제가 있어! 참석하였다. <br/>
 
