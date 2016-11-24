@@ -3,12 +3,14 @@
 
 세미나
 ------
-
+- [구글캠퍼스 원티드 캠퍼스 리쿠르팅](http://jojoldu.tistory.com/22)
+- [먹고 코딩하고 사랑하기, 오래하려면 어떻게 해야할까](http://jojoldu.tistory.com/24)
 -	[JSCON2016](./jscon2016/README.md)
 -	[Code States 2016](./CodeStates2016/README.md)
 -	[40대 아저씨도 벤처창업 할 수 있다](./40대아저씨도_벤처창업_할수있다_토크콘서트/README.md)
 -	[3명의 개발자의 고민](./3명의_개발자의_고민/README.md)
 -	[박재성님의 개발자 학습 로드맵](./개발자학습로드맵/README.md)
+- [GDG Dev Fest Seoul 2016](./GDG_DevFestSeoul_2016/README.md)
 
 도서
 ----
