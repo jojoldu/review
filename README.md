@@ -11,6 +11,7 @@
 -	[3명의 개발자의 고민](./3명의_개발자의_고민/README.md)
 -	[박재성님의 개발자 학습 로드맵](./개발자학습로드맵/README.md)
 - [GDG Dev Fest Seoul 2016](./GDG_DevFestSeoul_2016/README.md)
+- [JetBrains Night Seoul 2016](./JetBrainNight2016/README.md)
 
 도서
 ----
