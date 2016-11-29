@@ -12,7 +12,8 @@
 -	[박재성님의 개발자 학습 로드맵](./개발자학습로드맵/README.md)
 - [GDG Dev Fest Seoul 2016](./GDG_DevFestSeoul_2016/README.md)
 - [JetBrains Night Seoul 2016](./JetBrainNight2016/README.md)
-
+- [OKKY 비전공/취준생 멘토링 2016](./OKKY_비전공자멘토링_2016/README.md)
+ 
 도서
 ----
 
