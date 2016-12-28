@@ -4,14 +4,18 @@
 그래서 나같은 개발자가 또 있겠지 싶은 마음에 하나하나씩 정리할 예정이다.
 
 ### 단축키
+맥은 특수키들이 쉽게 암기되지 않는 기호로 표기된다. 이를 쉽게 외우려면 [링크](http://macnews.tistory.com/564)를 참고하자.
 * 윈도우 넘기기 : Control + 좌우 방향키
 * 윈도우 전체로 보기 : Control + 위 방향키
 * 뒤로가기/잘라내기/복사/붙여넣기 : Command + z/x/c/v
-
+* [Alfred](http://macworld.hjsong.net/62) 실행 : Option + Space
+* [Monosnap](http://macnews.tistory.com/1064) 영역지정캡쳐 : Option + Command + 4
+* [Monosnap](http://macnews.tistory.com/1064) 전체영역캡쳐 : Option + Command + 5
 
 ### IntelliJ 단축키
 IntelliJ의 경우 검색하면 다 나오는거지만 그때 그때 찾는 것도 귀찮고, 빨리 외우고 싶어서 작성한다. <br/>
-참고로 Keymap 버전은 Default (Mac OSX 10.5+) 이다. <br/>
+Keymap 버전은 Default (Mac OSX 10.5+) 이다. <br/>
+(여담이지만 Atom의 경우 플러그인으로 intelliJ용 Kaymap을 제공하고 있어 해당 플러그인 설치시에 아래 단축키들을 Atom에서도 그대로 사용 가능하다.) <br/>
 
 * 파일 저장 : Command + s
 * 라인 삭제 : Control + delete
