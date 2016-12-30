@@ -14,6 +14,8 @@
 * 현재 열린 윈도우 새로 열기 : Command + n
 * 파일 삭제 : Command + delete
 
+* 크롬 검사창 열기 (Windows에서 F12) : Command + Shift + c
+
 * [Alfred](http://macworld.hjsong.net/62) 실행 : Option + Space
 * [Monosnap](http://macnews.tistory.com/1064)
   - 기본 캡쳐 기능은 **캡쳐 후 바로 편집이 힘들다**. Monosnap 사용을 추천한다.
@@ -27,6 +29,9 @@
 * [Spectacle](http://macnews.tistory.com/3198)
   - 윈도우 화면 분할 : Option + Command + 방향키
   - 윈도우 풀 스크린 : Option + Command + f      
+
+
+
 
 ### IntelliJ 단축키
 IntelliJ의 경우 검색하면 다 나오는거지만 그때 그때 찾는 것도 귀찮고, 빨리 외우고 싶어서 작성한다. <br/>
@@ -46,10 +51,13 @@ Keymap 버전은 Default (Mac OSX 10.5+) 이다. <br/>
 * 선택 영역 좌우 이동 : Option + Shift + Command + 좌우 방향키
 * 최근 파일 리스트보기 : Command + e
 * 현재 Run 실행/디버깅 : Control + r / d
+* 다음 break point : Option + F9
+* :Option + return (Enter)
+* 구현 클래스 혹은 메소드로 이동 : Option + Command + b
 
 ### 키보드 매핑 (Realforce)
 타버전은 모르겠는데, Sierra 버전에서는 **Karabiner 설치시 기본 키보드 설정이 안먹힌다.** <br/>
-Realforce와 같은 윈도우 계열의 키보드 사용/미사용시 option키와 command키 변경을 자동으로 하기 위해 기본 키보드 설정만 사용하고, **그외 키보드 설정 어플리케이션은 사용하지 않는다.** <br/>
+Realforce와 같은 윈도우 계열의 키보드 연결/비연결시 option키와 command키 변경을 자동으로 전환되도록 하기 위해 기본 키보드 설정만 사용하고, **그외 키보드 설정 어플리케이션은 사용하지 않는다.** <br/>
 
 ![키보드](./images/키보드.png)
 
@@ -57,7 +65,8 @@ Realforce와 같은 윈도우 계열의 키보드 사용/미사용시 option키�
 
 ![키보드 한영전환](./images/키보드_한영전환.png)
 
-(IntelliJ에서의 자동완성키가 한영전환기본키가 겹치기 때문에 command+space로 변경한다.) <br/>
+(맥의 한영전환키는 기본적으로 Control+Space로 되어있다. <br/>
+때문에 IntelliJ에서의 자동완성키와 겹치기 때문에 **command+space**로 변경한다.) <br/>
 <br/>
 
 **Ing....**
