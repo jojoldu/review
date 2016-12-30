@@ -13,7 +13,7 @@
 * 작업취소 : Control + c
 * 현재 열린 윈도우 새로 열기 : Command + n
 * 파일 삭제 : Command + delete
-
+* Dock 숨기기 : Command + Option + d
 * 크롬 검사창 열기 (Windows에서 F12) : Command + Shift + c
 
 * [Alfred](http://macworld.hjsong.net/62) 실행 : Option + Space
@@ -29,8 +29,6 @@
 * [Spectacle](http://macnews.tistory.com/3198)
   - 윈도우 화면 분할 : Option + Command + 방향키
   - 윈도우 풀 스크린 : Option + Command + f      
-
-
 
 
 ### IntelliJ 단축키
