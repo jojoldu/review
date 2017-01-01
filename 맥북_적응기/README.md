@@ -38,6 +38,7 @@ Keymap 버전은 Default (Mac OSX 10.5+) 이다. <br/>
 
 * 전체 검색 : shift + shift
 * Action 검색 : Command + shift + a
+* Generate (생성자,getter,setter등) : Command + n
 * 파일 저장 : Command + s
 * 라인 삭제 : Control + delete
 * 자동 완성 : Control + Space
@@ -47,10 +48,12 @@ Keymap 버전은 Default (Mac OSX 10.5+) 이다. <br/>
 * 라인 삭제 : Command + delete
 * 라인 이동 : Option + shift + 위아래 방향키
 * 선택 영역 좌우 이동 : Option + Shift + Command + 좌우 방향키
+* 다음 단어로 이동 : Option + 좌우 방향키
 * 최근 파일 리스트보기 : Command + e
 * 현재 Run 실행/디버깅 : Control + r / d
+* 현재 테스트 코드 실행/디버깅 : Control + Shift + r / d
 * 다음 break point : Option + F9
-* :Option + return (Enter)
+* 현재 코드에서 수행 가능한 기능 출력 : Option + return (Enter)
 * 구현 클래스 혹은 메소드로 이동 : Option + Command + b
 
 ### 키보드 매핑 (Realforce)
