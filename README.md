@@ -1,7 +1,7 @@
 세미나 및 강연, 책등의 후기 모음
 ================================
 
-세미나
+2016년 세미나
 ------
 - [구글캠퍼스 원티드 캠퍼스 리쿠르팅](http://jojoldu.tistory.com/22)
 - [먹고 코딩하고 사랑하기, 오래하려면 어떻게 해야할까](http://jojoldu.tistory.com/24)
@@ -13,6 +13,10 @@
 - [GDG Dev Fest Seoul 2016](./GDG_DevFestSeoul_2016/README.md)
 - [JetBrains Night Seoul 2016](./JetBrainNight2016/README.md)
 - [OKKY 비전공/취준생 멘토링 2016](./OKKY_비전공자멘토링_2016/README.md)
+
+2017년 세미나
+------
+- [구글캠퍼스 & 원티드 캠퍼스 리쿠르팅 첫번째](./구글캠퍼스X원티드_캠퍼스리쿠르팅_2017_1/README.md)
 
 도서
 ----
