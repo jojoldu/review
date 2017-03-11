@@ -142,5 +142,12 @@
   * getter에서 이름은 필드명을 그대로 사용하기 보다는 추상화해서 사용한다. (다형성 활용성을 높일 수 있다.)
   * 객체지향의 핵심은 IoC를 통해 클라이언트 혹은 비지니스로직을 Entity(Low Level Detail)로 부터 보호하는 것이다.
 
+* The Impedance mismatch
+  * DB의 row는 자료구조이다. (값만 있으며 기능이 존재할 수 없다.)
+  * DB는 특정 APP이 아닌 Enterprise를 위해 존재하기 때문에 RDB와 OOD는 불일치 할 수밖에 없다.
+  * 그래서 APP Layer와 DB Layer가 서로를 모르면서도 통신할 수 있도록  중간 인터페이스를 생성하여 연동한다.
+
+*  
+
 
 
