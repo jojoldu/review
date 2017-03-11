@@ -93,6 +93,21 @@
   * 이전 메소드의 호출의 결과로 얻는 객체의 메소드를 호출하면 안된다. (```o.getX().getY().getZ().do()```)
 * Early Returns
   * early return, guarded return은 허용된다.
-  * 단, 루프의 중간에서 리턴하는 것은 문제다.   
-* 
+  * 단, 루프의 중간에서 리턴하는 것은 문제다.
+* 코드를 동작시키는 것보다 남들이 이해가능한지가 더 중요하다.
+* Exception은 해당 클래스에서만 발생시킨다면 inner Exception으로 생성하자.
+  * 가독성이 굉장히 높아진다. XXX.aaaException이 되므로 명확해진다.
+* UncheckedException은 스프링같은 컨테이너에서 롤백 대상이 되므로, 커스텀 Exception은 무조건 RuntimeException을 상속받자.
+  * checkedException 구현하게 될 경우 해당 메소드를 사용하는 모든 메소드에서 catch를 해야한다.
+  * checkedException은 사용하지 않는 편이 좋다.
+  * exception은 이름을 잘 지어서 **메세지가 없어도 이름만으로 이해하기 쉬운것이 좋은 형태**이다.
+* null은 error가 아니다.
+  * null을 기대하지 않는 상황이라면 차라리 exception이 낫다.
+  * 그게 아니라면 null을 나타내는 다른 값을 사용하라 (-1, nullvalue등)
+* try도 하나의 기능이다.
+  * try 블럭내에는 한줄만 있어야 한다.
+  * finally는 무조건 **함수의 마지막**이어야 한다. 이후에 다른 코드는 존재해서는 안된다.
+
+### 4. Form
+
 
