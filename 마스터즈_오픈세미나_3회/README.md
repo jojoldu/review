@@ -2,14 +2,15 @@
 프리미엄 프로그래밍 교육 센터인 [코드스쿼드](http://codesquad.kr/)에서 진행하는 마스터즈 오픈 세미나에 다녀왔습니다.  
 (공부한 내용을 정리하는 [Github](https://github.com/jojoldu/blog-code)와 세미나+책 후기를 정리하는 [Github](https://github.com/jojoldu/review), 이 모든 내용을 담고 있는 [블로그](http://jojoldu.tistory.com/)가 있습니다. )<br/>
 <br/>
-이번 세미나는 진유림님께서 신입 개발자에 대한 이야기를, 윤지수님께서 크롬 개발자도구로 하는 프론트엔드 디버깅에 대해 이야기해주셨습니다.  
+이번 세미나는 진유림님께서 **신입 개발자에 대한 이야기**를, 윤지수님께서 **크롬 개발자도구로 하는 프론트엔드 디버깅**에 대해 이야기해주셨습니다.  
 이외에도 꾸준하게 개발 관련 이야기를 계속 해주신다고 하시니 오픈 될때마다 관심있으신 분들은 참석하시길 바랍니다.  
 
 ## 신입개발자 생활백서 - 진유림
 
 ![진유림](./images/진유림.jpeg)
 
-[발표자료](https://www.slideshare.net/jayjin0427/ss-71896768)
+짱짱 미녀 개발자이신 진유림님의 발표  
+이전에 여러 대학교에서 발표하신 내용이라 유명한 내용이지만, 혹시나 못보셨던 분들은 참고하세요!  [발표자료](https://www.slideshare.net/jayjin0427/ss-71896768)
 
 ### 퍼스널 코딩
 * 왜 N년이나 개발공부를 하시나요?
@@ -153,6 +154,8 @@ search 입력창에 원하는 텍스트를 입력하면 전체 탐색한다.
 
 * source 탭에서 우측 상단 async 체크를 하게 되면 비동기도 동기와 함께 스택관리가 가능
 
+![async](./images/async.png)
+
 * dom breaking : 구조가 변경되면 브레이킹을 걸 수 있음
 
 ![dom breaking](./images/dom.png)
@@ -172,7 +175,11 @@ search 입력창에 원하는 텍스트를 입력하면 전체 탐색한다.
 * timeline / performance 탭
   * 구간(시간)별 화면이 보임
   * javascript 콜 스택을 확인할 수 있음
+
+![timeline](./images/timeline.png)
+
 * ```console.time("key")```, ```console.timeEnd("key")```로 하면 이 사이에 수행된 시간이 측정됨
+  * ```.time```과 ```.timeEnd```가 동일한 key를 사용해야함
   * [API 참고](https://developers.google.com/web/tools/chrome-devtools/console/console-reference?hl=ko#time)
 
 ### Source Tab
