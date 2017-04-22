@@ -22,7 +22,7 @@
 - [제 6회 대한민국 커뮤니티데이](./커뮤니티데이_2017/README.md)
 - [제 1회 review meetup](./reView_1st/README.md)
 - [제 3회 마스터즈 오픈세미나](./마스터즈_오픈세미나_3회/README.md)
-- [스프링캠프 2017 1부](./images/SpringCamp_2017_1부/README.md)
+- [스프링캠프 2017 1부](./SpringCamp_2017_1부/README.md)
 
 도서
 ----
