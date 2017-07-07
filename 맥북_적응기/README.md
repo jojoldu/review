@@ -17,12 +17,15 @@
 * Dock 숨기기 : Command + Option + d
 * 크롬 검사창 열기 (Windows에서 F12) : Command + Shift + c
 
-* [Alfred](http://macworld.hjsong.net/62) 실행 : Option + Space
+* [Alfred](http://macworld.hjsong.net/62) 
+  - 전체 어플리케이션 검색
+  - 실행 : Option + Space
 * [Monosnap](http://macnews.tistory.com/1064)
   - 기본 캡쳐 기능은 **캡쳐 후 바로 편집이 힘들다**. Monosnap 사용을 추천한다.
   - **영역지정** 캡쳐 : Option + Command + 5
   - **전체영역** 캡쳐 : Option + Command + 6
 * [iterm2](https://gist.github.com/helger/3070258)
+  - [iterm2 꾸미기](https://beomi.github.io/2017/07/07/Beautify-ZSH/)
   - 탭 이동 : Command + 좌우 방향키
   - 윈도우 세로 분할 : Command + shift + d
   - 윈도우 가로 분할 : Command + d
