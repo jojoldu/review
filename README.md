@@ -1,6 +1,18 @@
 세미나 및 강연, 책등의 후기 모음
 ================================
 
+2017년 세미나
+------
+
+- [Tech HR 컨퍼런스 By eBrain](./TechHR)
+- [OKKY 취준생 Meetup](./OKKY_취준생_meetup/README.md)
+- [스프링캠프 2017 2부](./SpringCamp_2017_2부/README.md)
+- [스프링캠프 2017 1부](./SpringCamp_2017_1부/README.md)
+- [제 3회 마스터즈 오픈세미나](./마스터즈_오픈세미나_3회/README.md)
+- [제 1회 review meetup](./reView_1st/README.md)
+- [제 6회 대한민국 커뮤니티데이](./커뮤니티데이_2017/README.md)
+- [구글캠퍼스 & 원티드 캠퍼스 리쿠르팅 첫번째](./구글캠퍼스X원티드_캠퍼스리쿠르팅_2017_1/README.md)
+
 2016년 세미나
 ------
 
@@ -15,16 +27,6 @@
 - [JetBrains Night Seoul 2016](./JetBrainNight2016/README.md)
 - [OKKY 비전공/취준생 멘토링 2016](./OKKY_비전공자멘토링_2016/README.md)
 
-2017년 세미나
-------
-
-- [구글캠퍼스 & 원티드 캠퍼스 리쿠르팅 첫번째](./구글캠퍼스X원티드_캠퍼스리쿠르팅_2017_1/README.md)
-- [제 6회 대한민국 커뮤니티데이](./커뮤니티데이_2017/README.md)
-- [제 1회 review meetup](./reView_1st/README.md)
-- [제 3회 마스터즈 오픈세미나](./마스터즈_오픈세미나_3회/README.md)
-- [스프링캠프 2017 1부](./SpringCamp_2017_1부/README.md)
-- [스프링캠프 2017 2부](./SpringCamp_2017_2부/README.md)
-- [OKKY 취준생 Meetup](./OKKY_취준생_meetup/README.md)
 
 도서
 ----
