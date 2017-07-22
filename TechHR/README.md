@@ -338,8 +338,8 @@ eBrain에서 주회하신 [Tech HR 컨퍼런스](http://techhr.kr/)에 다녀왔
 
 > 이브레인에서 많은 개발자분들을 추천해드리고, 현재까지 퇴사자가 1명도 없었다는 소식!
 
-[개발 블로그](http://woowabros.github.io/)
-[채용 페이지](https://recruit.woowahan.com/#/job)
+* [개발 블로그](http://woowabros.github.io/)
+* [채용 페이지](https://recruit.woowahan.com/#/job)
 
 ### 오마이트립
 
@@ -358,8 +358,8 @@ MS MVP이시자, 오마이트립의 CTO이신 이규원님께서 직접 오마�
 실제로 이규원 CTO님은 열심히 개발자를 채용중입니다.  
 아직 많은 인력이 있지 않은 상태이기 때문에 CTO님 바로 옆에서 개발과 일을 배울수 있는 기회! 
 
-[기술 블로그](https://ohmytriptech.github.io)
-[채용 페이지](https://ohmytriptech.github.io/recruit/)
+* [기술 블로그](https://ohmytriptech.github.io)
+* [채용 페이지](https://ohmytriptech.github.io/recruit/)
 
 ### eBrain
 
