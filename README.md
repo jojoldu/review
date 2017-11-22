@@ -4,6 +4,8 @@
 2017년 세미나
 ------
 
+- [JetBrains Night Seoul 2017](./JetBrainNight2017/README.md)
+
 - [OKKY 미니세미나 <비전공 학원출신 SI개발자, 유명스타트업 들어간.ssul>](https://github.com/jojoldu/review/tree/master/%EB%B9%84%EC%A0%84%EA%B3%B5_%ED%95%99%EC%9B%90%EC%B6%9C%EC%8B%A0_SI%EA%B0%9C%EB%B0%9C%EC%9E%90_%EC%9C%A0%EB%AA%85%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85_%EB%93%A4%EC%96%B4%EA%B0%84ssul)
 - [Tech HR 컨퍼런스 By eBrain](./TechHR)
 - [OKKY 취준생 Meetup](./OKKY_취준생_meetup/README.md)
