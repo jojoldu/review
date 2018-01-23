@@ -2,7 +2,7 @@
 이직한 회사에서는 맥북을 사용하게 되었는데, 윈도우에서 맥북으로 넘어오면서 특수키부터 시작해서 단축키까지 너무 달라서 적응하기가 힘들었다.<br/>
 그래서 나같은 개발자가 또 있겠지 싶은 마음에 하나하나씩 정리할 예정이다.
 
-### 단축키
+## 단축키
 맥은 특수키들이 외우기가 어려웠다. 이를 쉽게 외우는 [링크](http://macnews.tistory.com/564)를 참고하자. <br/>
 
 ![특수키](./images/특수키.png)
@@ -34,8 +34,44 @@
   - 윈도우 화면 분할 : Option + Command + 방향키
   - 윈도우 풀 스크린 : Option + Command + f      
 
+## 개발환경
 
-### IntelliJ 단축키
+### Java8
+
+```bash
+brew tap caskroom/versions
+brew cask install java8
+java -version
+```
+
+### git
+
+```bash
+brew install git
+```
+
+### node
+
+```bash
+brew install node
+npm install -g n
+sudo n 본인이 원하는 버전
+node --version
+```
+
+### Gradle
+
+```bash
+brew install gradle
+gradle -v
+```
+
+### IntelliJ
+
+* [ToolBox](https://www.jetbrains.com/products.html?fromMenu)
+* File -> export settings으로 세팅 복사
+
+## IntelliJ 단축키
 IntelliJ의 경우 검색하면 다 나오는거지만 그때 그때 찾는 것도 귀찮고, 빨리 외우고 싶어서 작성한다. <br/>
 Keymap 버전은 Default (Mac OSX 10.5+) 이다. <br/>
 (여담이지만 Atom의 경우 플러그인으로 intelliJ용 Kaymap을 제공하고 있어 해당 플러그인 설치시에 아래 단축키들을 Atom에서도 그대로 사용 가능하다.) <br/>
