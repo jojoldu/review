@@ -30,6 +30,7 @@
   - 윈도우 세로 분할 : Command + shift + d
   - 윈도우 가로 분할 : Command + d
   - 윈도우 이동 : Command + Option + 방향키
+  - [단축키 모음](https://gist.github.com/squarism/ae3613daf5c01a98ba3a)
 * [Spectacle](http://macnews.tistory.com/3198)
   - 윈도우 화면 분할 : Option + Command + 방향키
   - 윈도우 풀 스크린 : Option + Command + f      
