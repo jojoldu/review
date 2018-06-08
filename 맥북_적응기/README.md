@@ -35,6 +35,13 @@
   - 윈도우 화면 분할 : Option + Command + 방향키
   - 윈도우 풀 스크린 : Option + Command + f      
 
+* [Scroll Reverser](http://macnews.tistory.com/1158)
+  * 일반 휠 마우스를 쓸때 사용성을 그대로 가져갈 수 있는 앱
+  * 터치패드와 휠 마우스의 휠이 사용성이 반대라서 발생하는 문제를 해결
+* [Itsycal](http://macnews.tistory.com/3023)
+  * 맥용 달력
+  * 기본달력이 워낙 구려서 이걸 추천
+
 ## 개발환경
 
 ### Java8
@@ -73,6 +80,7 @@ gradle -v
 * File -> export settings으로 세팅 복사
 
 ## IntelliJ 단축키
+
 IntelliJ의 경우 검색하면 다 나오는거지만 그때 그때 찾는 것도 귀찮고, 빨리 외우고 싶어서 작성한다. <br/>
 Keymap 버전은 Default (Mac OSX 10.5+) 이다. <br/>
 (여담이지만 Atom의 경우 플러그인으로 intelliJ용 Kaymap을 제공하고 있어 해당 플러그인 설치시에 아래 단축키들을 Atom에서도 그대로 사용 가능하다.) <br/>
@@ -98,6 +106,7 @@ Keymap 버전은 Default (Mac OSX 10.5+) 이다. <br/>
 * 구현 클래스 혹은 메소드로 이동 : Option + Command + b
 
 ### 키보드 매핑 (Realforce)
+
 타버전은 모르겠는데, Sierra 버전에서는 **Karabiner 설치시 기본 키보드 설정이 안먹힌다.** <br/>
 Realforce와 같은 윈도우 계열의 키보드 연결/비연결시 option키와 command키 변경을 자동으로 전환되도록 하기 위해 기본 키보드 설정만 사용하고, **그외 키보드 설정 어플리케이션은 사용하지 않는다.** <br/>
 
@@ -112,6 +121,7 @@ Realforce와 같은 윈도우 계열의 키보드 연결/비연결시 option키�
 <br/>
 
 ### 스크롤바
+
 맥에서 IntelliJ를 사용할때 당혹스러운 것이 스크롤바가 보이지 않는 다는 것이다. <br/>
 
 ![스크롤바1](./images/스크롤바1.png)
@@ -123,5 +133,11 @@ Realforce와 같은 윈도우 계열의 키보드 연결/비연결시 option키�
 ![스크롤바2](./images/스크롤바2.png)
 
 (위 이미지 참고)<br/>
+
+### 키보드 속도
+
+키 입력 반응 속도를 높이는 방법
+
+![키보드속도](./images/키보드속도.png)
 
 **Ing....**
