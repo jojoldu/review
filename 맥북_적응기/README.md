@@ -2,7 +2,10 @@
 이직한 회사에서는 맥북을 사용하게 되었는데, 윈도우에서 맥북으로 넘어오면서 특수키부터 시작해서 단축키까지 너무 달라서 적응하기가 힘들었다.<br/>
 그래서 나같은 개발자가 또 있겠지 싶은 마음에 하나하나씩 정리할 예정이다.
 
+* [본격 macOS에 개발 환경 구축하기](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
+ 
 ## 단축키
+
 맥은 특수키들이 외우기가 어려웠다. 이를 쉽게 외우는 [링크](http://macnews.tistory.com/564)를 참고하자. <br/>
 
 ![특수키](./images/특수키.png)
@@ -138,6 +141,6 @@ Realforce와 같은 윈도우 계열의 키보드 연결/비연결시 option키�
 
 키 입력 반응 속도를 높이는 방법
 
-![키보드속도](./images/키보드속도.png)
+![키보드속도](./images/keyboard_speed.png)
 
 **Ing....**
