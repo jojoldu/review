@@ -1,4 +1,7 @@
-# AWSKRUG #enterprise 소모임
+# AWSKRUG #enterprise 소모임 2018.06.11 
+
+개인적으로 기술 파트였던 1,2 세션은 이미지 위주라 제대로 기록할 수 없었습니다 ㅠㅠㅠ...  
+다만, 개발자의 길을 얘기해주신 3세션은 많은 내용을 기록할 수 있었으니 참고 부탁드립니다.  
 
 ## 1. AWS Messaging Service(SQS, SNS, SES) 살펴보기 - 이정학님
 
