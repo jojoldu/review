@@ -267,7 +267,7 @@
   * **체인이 끊기면 실행되지 않음**
 * 체인이 시작된 후로 **비동기 작업**이 필요한 경우엔 ```flatMap()```
 * 예외 -> onErrorXX
-* Controller에서 던지는 ```Flux<Order>```와 ```Mono<List<Order>>``` 는 **클라이언트 입장에서는 결과가 같음**
+* Controller에서 던지는 ```Flux<Order>```와 ```Mono<List<Order>>``` 는 **ContentType에 따라서 결과가 같을 수도 완전히 다를 수도 있습니다.**
 
 ## 6. 데모2
 
