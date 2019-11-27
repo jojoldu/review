@@ -35,9 +35,13 @@
   - 윈도우 가로 분할 : Command + d
   - 윈도우 이동 : Command + Option + 방향키
   - [단축키 모음](https://gist.github.com/squarism/ae3613daf5c01a98ba3a)
-* [Spectacle](http://macnews.tistory.com/3198)
-  - 윈도우 화면 분할 : Option + Command + 방향키
-  - 윈도우 풀 스크린 : Option + Command + f      
+* [Magnet](https://apps.apple.com/kr/app/magnet-%EB%A7%88%EA%B7%B8%EB%84%B7/id441258766?mt=12)
+  * **유료**
+  * 윈도우 이상가는 화면 분할 기능을 지원한다.
+  * 돈 없으면 아래 무료 앱을 쓰면 되는데 단축키나 기능이 미흡하다 
+  * [Spectacle](http://macnews.tistory.com/3198)
+    * 윈도우 화면 분할 : Option + Command + 방향키
+    * 윈도우 풀 스크린 : Option + Command + f      
 
 * [Scroll Reverser](http://macnews.tistory.com/1158)
   * 일반 휠 마우스를 쓸때 사용성을 그대로 가져갈 수 있는 앱
