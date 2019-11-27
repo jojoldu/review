@@ -109,20 +109,9 @@ Keymap 버전은 Default (Mac OSX 10.5+) 이다. <br/>
 * 현재 코드에서 수행 가능한 기능 출력 : Option + return (Enter)
 * 구현 클래스 혹은 메소드로 이동 : Option + Command + b
 
-### 키보드 매핑 (Realforce)
+### 키보드 설정
 
-타버전은 모르겠는데, Sierra 버전에서는 **Karabiner 설치시 기본 키보드 설정이 안먹힌다.** <br/>
-Realforce와 같은 윈도우 계열의 키보드 연결/비연결시 option키와 command키 변경을 자동으로 전환되도록 하기 위해 기본 키보드 설정만 사용하고, **그외 키보드 설정 어플리케이션은 사용하지 않는다.** <br/>
-
-![키보드](./images/키보드.png)
-
-(Realforce일 경우엔 option과 command를 변경) <br/>
-
-![키보드 한영전환](./images/키보드_한영전환.png)
-
-(맥의 한영전환키는 기본적으로 Control+Space로 되어있다. <br/>
-때문에 IntelliJ에서의 자동완성키와 겹치기 때문에 **command+space**로 변경한다.) <br/>
-<br/>
+* [우측 커맨드를 한영키로 사용하기](https://jojoldu.tistory.com/345)
 
 ### 스크롤바
 
